@@ -1,4 +1,4 @@
-<h1> Workshop - Blog </h1>
+<h1> Workshop - Sistema de Pedidos </h1>
 <p>📌 Sistema de pedidos - produto, pedido, usuário, pagamento, status do pagamento. <br>
 📌 Implemetanção CRUD <br>
 📌 Web services com Spring Boot e JPA / Hibernate</p>
